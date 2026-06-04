@@ -39,6 +39,6 @@ The objective of this repository is to build practical understanding of machine 
 ## 📧 Contact
 For questions or feedback, please open an issue on GitHub.
 
---------
+-------
 
 ⭐ If you found this project helpful, please consider giving it a star!
