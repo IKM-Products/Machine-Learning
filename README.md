@@ -1,14 +1,8 @@
-# 🤖 Machine Learning Lab
+# 🤖 Machine Learning (Lab)
 
-**Machine Learning Lab** is a repository focused on implementing and exploring fundamental machine learning and deep learning algorithms through practical experiments and hands-on coding exercises. This repository contains implementations, model training workflows, evaluation techniques, and analytical studies across regression, classification, and neural networks.
+**Machine Learning Lab** is a lab repository focused on implementing and exploring fundamental machine learning and deep learning algorithms through practical experiments and hands-on coding exercises. This repository contains implementations, model training workflows, evaluation techniques, and analytical studies across regression, classification, and neural networks.
 
 ## 🚀 Topics Covered
-
-### 📈 Linear Regression
-
-* Understanding regression fundamentals
-* Predictive modeling using linear relationships
-* Model evaluation and performance analysis
 
 ### 🎯 Support Vector Machine (SVM)
 
@@ -26,10 +20,10 @@
 
 * **Programming Language:** Python
 * **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Matplotlib
-* **Environment:** Jupyter Notebook, Google Colab, VS Code
+* **Environment:** Google Colab
 * **Version Control:** Git & GitHub
 
-## 📂 Workflow
+## 📂 Repository Workflow
 
 1. Import and preprocess datasets
 2. Explore and analyze input features
@@ -38,14 +32,13 @@
 5. Compare algorithms and interpret results
 6. Visualize outputs and predictions
 
-## 📊 Learning Areas
-
-* Data preprocessing
-* Model training and testing
-* Performance metrics and evaluation
-* Classification and regression techniques
-* Deep learning fundamentals
-
 ## 🎯 Objective
 
 The objective of this repository is to build practical understanding of machine learning algorithms and neural networks through experimentation, implementation, and analysis.
+
+## 📧 Contact
+For questions or feedback, please open an issue on GitHub.
+
+--------
+
+⭐ If you found this project helpful, please consider giving it a star!
