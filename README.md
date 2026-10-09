@@ -4,6 +4,12 @@
 
 ## 🚀 Topics Covered
 
+### 📈 Linear Regression (LR)
+
+* Simple and multiple linear regression
+* Least squares method and best-fit line estimation
+* Model evaluation using MAE, MSE, RMSE, and R²
+
 ### 🎯 Support Vector Machine (SVM)
 
 * Classification using Support Vector Machines
